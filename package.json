@@ -1,0 +1,17 @@
+{
+  "name": "untitled1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node alert.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "currency-converter-lt": "^2.0.1"
+  }
+}
